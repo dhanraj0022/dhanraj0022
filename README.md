@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Dhanraj Singh</h1>
 <h3 align="center">A passionate data science enthusiast from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/20368/screenshots/4012238/data_scene.gif">
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dhanraj0022&label=Profile%20views&color=0e75b6&style=flat" alt="dhanraj0022" /> </p>
 
 <p align="left"> <a href="https://twitter.com/dhanraj0022" target="blank"><img src="https://img.shields.io/twitter/follow/dhanraj0022?logo=twitter&style=for-the-badge" alt="dhanraj0022" /></a> </p>
