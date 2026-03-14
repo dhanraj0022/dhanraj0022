@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/dhanraj0022" target="blank"><img src="https://img.shields.io/twitter/follow/dhanraj0022?logo=twitter&style=for-the-badge" alt="dhanraj0022" /></a> </p>
 
-- 🔭 I’m currently working on **Orchestrating AI Use Cases in SCM matching compliance protocols & guadrails. Point of View --> Prototype --> Project Turnover --> Development **
+- 🔭 I’m currently working on **Orchestrating AI Use Cases in SCM matching compliance protocols & guadrails. Point of View --> Prototype --> Project Turnover--> Development**
 
 - 🌱 I’m currently pursuing **Databricks: Data Engineering Professional certification**
 
