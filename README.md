@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dhanraj Singh</h1>
-<h3 align="center">A passionate data science enthusiast from India</h3>
+<h3 align="center">A passionate data engineering associate situated in Bangalore</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/20368/screenshots/4012238/data_scene.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dhanraj0022&label=Profile%20views&color=0e75b6&style=flat" alt="dhanraj0022" /> </p>
 
@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Multiple Disease Prediction Model**
 
-- 🌱 I’m currently learning **The Data Science Course: Complete Data Science Bootcamp 2024 from Udemy**
+- 🌱 I’m currently pursuing **Databricks: Data Engineering Professional certification**
 
 - 💬 Ask me about **MySQL, DBMS, Data Structures, Data Science**
 
